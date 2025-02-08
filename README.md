@@ -2,6 +2,8 @@
 
 Самохвалова П. А., гр. 5130901/20201
 
+Упражнения выполняются в файлах Jupiter Notebook каждой главы.
+
 # ThinkDSP
 
 *Think DSP* is an introduction to Digital Signal Processing in Python.
