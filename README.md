@@ -1,3 +1,7 @@
+# Репозиторий для работ по курсу "Телекоммуникационные технологии"
+
+Самохвалова П. А., гр. 5130901/20201
+
 # ThinkDSP
 
 *Think DSP* is an introduction to Digital Signal Processing in Python.
